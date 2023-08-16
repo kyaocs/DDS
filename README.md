@@ -4,7 +4,7 @@ This project aims to detect directed dense subgraphs in directed graphs.
 
 dds is the executable, and is compiled on Ubuntu 18.04.5, with -O3 optimization.
 
-TwitterList.txt is an example directed graph from [KONECT](http://konect.cc/networks/).
+TwitterList.txt is an example directed graph from [KONECT](http://konect.cc/networks/) .
 
 ## Running Format
 
